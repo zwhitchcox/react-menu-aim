@@ -18,7 +18,7 @@ A React Mixin makes your menu works as **magical** as Amazon's implementation, t
 
 You can also checkout `./demo` folder find out the simple & stragiht demo usage, or here's a quick look.
 
-```
+```js
 var React = require('react');
 var ReactMenuAim = require('react-menu-aim');
 
